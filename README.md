@@ -1,7 +1,15 @@
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rezaroux&show_icons=true&theme=dark&count_private=true&include_all_commits"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezaroux&show_icons=true&theme=dark&count_private=true&include_all_commits/">
+## hoi
+
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rezaroux&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rezaroux&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
+
+I started programming about five years ago with Lua but later branched out to JavaScript/TypeScript and C#
+
+Currently working on video game projects and a private Discord bot
 <!--
-**Rezaroux/Rezaroux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
