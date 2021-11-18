@@ -1,6 +1,8 @@
-![Statistics](https://github-readme-stats.vercel.app/api?username=Rezaroux&show_icons=true&theme=dark)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rezaroux&show_icons=true&theme=dark)
+![Statistics](https://github-readme-stats.vercel.app/api?username=Rezaroux&show_icons=true&theme=dark&count_private=true)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rezaroux&show_icons=true&theme=dark&count_private=true)
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rezaroux&show_icons=true&theme=dark&count_private=true&include_all_commits"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezaroux&show_icons=true&theme=dark&count_private=true&include_all_commits/>
 <!--
 **Rezaroux/Rezaroux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
