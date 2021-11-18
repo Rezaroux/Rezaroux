@@ -1,5 +1,6 @@
-![Reza's github stats](https://github-readme-stats.vercel.app/api?username=Rezaroux&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rezaroux&show_icons=true&theme=dark)
+!(https://github-readme-stats.vercel.app/api?username=Rezaroux&show_icons=true&theme=dark)
+\n
+!(https://github-readme-stats.vercel.app/api/top-langs/?username=rezaroux&show_icons=true&theme=dark)
 
 <!--
 **Rezaroux/Rezaroux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
